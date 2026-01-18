@@ -13,4 +13,5 @@ You will have to use a boat to transport your goods.
 Credits / Thank-Yous
 ---------------------------------
 Special thanks to Kai (@coilysiren) for the idea of biome editing via Industrial Barge.
+
 Special thanks to AngelLord (@angellord) for help with figuring out which biome to actually edit.
